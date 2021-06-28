@@ -1,0 +1,12 @@
+.DialogItem{
+    display: grid;
+    grid-template-areas: "u m";
+    grid-template-columns: 2fr 8fr  ;
+}
+.User{
+    grid-area: u;
+
+}
+.Messages{
+    grid-area: m;
+}

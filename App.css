@@ -1,0 +1,25 @@
+.App{
+    display: grid;
+    grid-template-areas:
+    "h h"
+    "n c";
+
+
+    grid-template-rows: 141px 1fr;
+    grid-template-columns: 2fr 12fr;
+    grid-gap: 2px;
+
+}
+.header{
+    background-color: bisque;
+    grid-area: h;
+}
+.navbar{
+
+    background-color: #61dafb;
+    grid-area: n;
+}
+.content{
+    background-color: orange;
+    grid-area: c;
+}

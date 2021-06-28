@@ -1,0 +1,21 @@
+.header{
+    height: 140px;
+    width: 100%;
+    background-color: hotpink;
+    position: fixed;
+
+}
+.head{
+    text-align: center;
+    font-size: 50pt;
+    color: azure;
+    padding-top: 20px;
+}
+.login{
+    float: right;
+    color: white;
+    padding-right: 30px;
+}
+.login a {
+    color: white;
+}

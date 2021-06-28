@@ -1,0 +1,4 @@
+.FormsElement.Error input,
+.FormsElement.Error textarea{
+    border: solid red ;
+}

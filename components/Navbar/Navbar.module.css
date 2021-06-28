@@ -1,0 +1,10 @@
+.bar{
+    position: fixed !important;
+}
+.activ{
+
+    color: gold;
+}
+.bar :link{
+    text-decoration: none;
+}
